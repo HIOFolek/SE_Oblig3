@@ -12,7 +12,7 @@ public class IsleapYearTest {
     @Test
     public void is400ALeapYear(){
         IsLeapYear fourHundred = new IsLeapYear();
-        assertEquals(true, fourHundred.isLeapYear(400));
+        assertEquals(false, fourHundred.isLeapYear(400));
     }
     @Test
     public void is100ALeapYear(){
