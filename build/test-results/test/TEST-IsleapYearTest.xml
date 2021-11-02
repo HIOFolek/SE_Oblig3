@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="IsleapYearTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-10-08T14:33:18" hostname="DESKTOP-BP5VQFP" time="0.005">
+  <properties/>
+  <testcase name="is4ALeapYear" classname="IsleapYearTest" time="0.004"/>
+  <testcase name="is1ALeapYear" classname="IsleapYearTest" time="0.0"/>
+  <testcase name="isFourHundredAndFortyALeapYear" classname="IsleapYearTest" time="0.0"/>
+  <testcase name="is102ALeapYear" classname="IsleapYearTest" time="0.0"/>
+  <testcase name="is100ALeapYear" classname="IsleapYearTest" time="0.001"/>
+  <testcase name="is400ALeapYear" classname="IsleapYearTest" time="0.0"/>
+  <testcase name="isEighteenHundredALeapYear" classname="IsleapYearTest" time="0.0"/>
+  <testcase name="isTwoThousandOneHundredALeapYear" classname="IsleapYearTest" time="0.0"/>
+  <testcase name="isTwoThousandALeapHear" classname="IsleapYearTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
